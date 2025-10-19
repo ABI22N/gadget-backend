@@ -22,7 +22,7 @@ const PORT=3000|| process.env.PORT
 gadgets.use(middleware)
 //7.use router
 
-rBuilder.use(router)
+gadgets.use(router)
 
 //8.tell the server to listen for the client
 
