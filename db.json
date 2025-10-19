@@ -1,0 +1,52 @@
+{
+  "gadgets": [
+    {
+      "id": "1",
+      "name": "Nothing 2a",
+      "brand": "Nothing",
+      "price": 27000,
+      "specs": "6.5\" AMOLED, 256GB, 8GB RAM",
+      "image": "https://www.digitaltrends.com/wp-content/uploads/2024/03/nothing-phone-2a-glyph-on.jpg?resize=1200%2C720&p=1"
+    },
+    {
+      "id": "2",
+      "name": "Victus",
+      "brand": "HP",
+      "price": 58990,
+      "specs": "16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 2050/144 Hz",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24164225/226385_HP_Victus_15_MChin_0021.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "4d5f",
+      "name": "OnePlus Buds 3 Pro TWS",
+      "brand": "OnePlus",
+      "price": 4599,
+      "specs": "Ear Earbuds with Sliding Volume Control and 49dB ANC Bluetooth Gaming ",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202408/oneplus-buds-pro-3-20451969-1x1.jpg?VersionId=uEzpe4RhScLBnDgIBbWB9YgsTH42XG5n"
+    },
+    {
+      "id": "9702",
+      "name": "Iphone 17",
+      "brand": "Apple",
+      "price": 82900,
+      "specs": "256 GB ROM,48MP + 48MP | 18MP Front Camera,A19 Chip, 6 Core Processor Processor",
+      "image": "https://m-cdn.phonearena.com/images/hubs/5214-image/Screenshot-2025-09-09-at-21.27.45.webp"
+    },
+    {
+      "id": "4924",
+      "name": "Nothing Headphone(1) 42dB ANC",
+      "brand": "Nothing",
+      "price": 17999,
+      "specs": " Hi-Res+LDAC|40mm Driver| Sound by KEF Bluetooth & Wired  (White, On the Ear)",
+      "image": "https://musictech.com/wp-content/uploads/2025/07/Nothing-1@2000x1500.jpg"
+    },
+    {
+      "id": "309a",
+      "name": "GoPro Hero 13",
+      "brand": "GoPro",
+      "price": 57390,
+      "specs": "GoPro Hero 13 Black Creator Edition\nEnduro Rechargeable Li-Ion Battery\nCurved Adhesive Mount\nMounting Buckle\nThumbscrew\nUSB-C Cable",
+      "image": "https://media.istockphoto.com/id/1296088254/photo/tallinn-estonia-gopro-hero-9-black-action-camera-outdoors-in-forest.jpg?s=612x612&w=0&k=20&c=A3u5xN7yqQ_yc5Ypvc_o8QFG97zDyvKakL9bTDVUB2E="
+    }
+  ]
+}
